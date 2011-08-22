@@ -1,0 +1,6 @@
+# Ignore emacs backup files (at least, the ones I generate)
+.*~
+# Ignore scratch file
+.bonz
+# Ignore todo list
+TODO
