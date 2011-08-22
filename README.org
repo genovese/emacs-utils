@@ -9,13 +9,15 @@ The current contents are as follows:
 
   + =win-switch=
 
-    Defines a command ~win-switch-dispatch~ to be used in place of
-    =other-window= that engages a dynamic, transient keyboard override,
-    allowing one to efficiently move among defined windows (and frames)
-    -- and even resize, split, delete them -- with minimal fuss and
-    effort. When the override is engaged, the movement and resizing
-    commands are bound to simple keys that can be pressed quickly with
-    one hand. The override ends either when the user exits explicitly or
-    after a configurable idle time threshold. The happy outcome is fast
-    and seamless navigation.
+    Defines a command ~win-switch-dispatch~ to be used in
+    place of =other-window= that engages a dynamic,
+    transient keyboard override, allowing one to efficiently
+    move among defined windows (and frames) -- and even
+    resize, split, delete them -- with minimal fuss and
+    effort. When the override is engaged, the movement and
+    resizing commands are bound to simple keys that can be
+    pressed quickly with one hand. The override ends either
+    when the user exits explicitly or after a configurable
+    idle time threshold. The happy outcome is fast and
+    seamless navigation.
 
