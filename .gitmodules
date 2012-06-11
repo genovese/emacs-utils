@@ -1,0 +1,3 @@
+[submodule "win-switch"]
+	path = win-switch
+	url = git@github.com:genovese/win-switch.git
